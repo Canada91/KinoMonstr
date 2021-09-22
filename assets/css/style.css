@@ -27,11 +27,11 @@
     margin: 0 0 0 9px;
 }
 
-.logo_text h1, .logo_text h1 a, .logo_text h1 a  :hover {
+.logo_text h1, .logo_text h1 a, .logo_text h1 a :hover {
     padding: 22px 0 0 0;
     color: #fff;
     letter-spacing: 0.1em;
-    text_decoration: none;
+    text-decoration: none;
     }
 
     .logo_text h2{
